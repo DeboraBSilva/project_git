@@ -18,4 +18,8 @@ class Main
   def to_git1
     "git2"
   end
+
+  def to_new_git1
+    "Have some new feature here"
+  end
 end
