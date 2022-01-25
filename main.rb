@@ -4,7 +4,7 @@ class Main
   end
 
   def to_git2
-    "git2"
+    "Do something new with git2"
   end
 
   def to_git3
